@@ -1,1 +1,1 @@
-﻿window.LATEST_VERSION_INFO = { latestVersion: 'v2.7.7', updateLog: ['【修复】热更新改用JSON编码替代base64，彻底解决解码不完整问题', '【修复】更新失败时自动降级为本次会话内更新，不再黑屏', '【修复】head启动器增加HTML完整性校验，自动清理损坏缓存', '页内更新稳定可用'] };
+﻿window.LATEST_VERSION_INFO = { latestVersion: 'v2.7.8', updateLog: ['【优化】去掉强制更新，改为可选更新（立即更新/稍后再说）', '【修复】热更新JSON编码、配额降级、HTML完整性校验', '更新不再卡工作，可随时稍后再更'] };
