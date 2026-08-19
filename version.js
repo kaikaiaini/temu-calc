@@ -1,1 +1,1 @@
-﻿window.LATEST_VERSION_INFO = { latestVersion: 'v2.7.5', updateLog: ['【修复】修复热更新无限循环BUG（版本号变量名错误导致保存undefined）', '【修复】head启动器增加版本号格式校验，自动清理无效缓存', '页内更新100%可用，更新后永久生效，刷新重开不丢失'] };
+﻿window.LATEST_VERSION_INFO = { latestVersion: 'v2.7.7', updateLog: ['【修复】热更新改用JSON编码替代base64，彻底解决解码不完整问题', '【修复】更新失败时自动降级为本次会话内更新，不再黑屏', '【修复】head启动器增加HTML完整性校验，自动清理损坏缓存', '页内更新稳定可用'] };
