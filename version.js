@@ -1,1 +1,1 @@
-﻿window.LATEST_VERSION_INFO = { latestVersion: 'v2.7.8', updateLog: ['【优化】去掉强制更新，改为可选更新（立即更新/稍后再说）', '【修复】热更新JSON编码、配额降级、HTML完整性校验', '更新不再卡工作，可随时稍后再更'] };
+﻿window.LATEST_VERSION_INFO = { latestVersion: 'v2.7.9', updateLog: ['稳定版，无强制更新'] };
