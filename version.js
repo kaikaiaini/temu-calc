@@ -1,0 +1,1 @@
+﻿window.LATEST_VERSION_INFO = { latestVersion: 'v2.7.1', updateLog: ['【重要】热更新改用GitHub+jsDelivr CDN，彻底解决CORS和MIME类型问题', '页内更新100%可用，无需下载新文件', '修复公告弹窗底部内容被截断', '更新波兰包邮门槛49.9zł、英国35£（Temu官方2026.7.23最新规则）', '利润列表头加颜色图例，行高变薄'] };
