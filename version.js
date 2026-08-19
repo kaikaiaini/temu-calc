@@ -1,1 +1,1 @@
-﻿window.LATEST_VERSION_INFO = { latestVersion: 'v2.8.0', updateLog: ['【优化】更新流程稳定性测试版', '去掉强制更新，改为可选更新', '更新直接替换页面，不黑屏不无限循环'] };
+﻿window.LATEST_VERSION_INFO = { latestVersion: 'v2.8.1', updateLog: ['【测试】更新流程验证版', '更新后直接替换页面，不黑屏不无限循环', '可选更新，不强制'] };
